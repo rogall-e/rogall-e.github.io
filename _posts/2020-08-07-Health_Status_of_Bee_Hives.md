@@ -9,7 +9,6 @@ excerpt: "Data Science Life Circle, Data Science, Neural Networks for Good"
 mathjax: "true"
 ---
 
-<p class = "notice--warning">
 # Introduction
 
 The use of neocorticoids and other pesticides against insects is a growing problem because they are targeting not only the target insects which can act as pests but also useful ones like honey bees. There is a rapid decrease in the number of insects. Also it was shown before that insecticides can reduce the defense strength of the bee hives against the varroa mites (https://www.nature.com/articles/s41598-019-44207-1). Without these insects the agriculture will lose a major contributor to the pollination of plants, which can lead to crop failures and famines.
@@ -32,7 +31,7 @@ The success of this project will be defined by the accuracy of the detection of 
 
 The optimal Humidity for breeding is between the 50% and 60%.
 
-
+{% include '/images/2020-08-07-Health_Status_of_Bee_Hives/humidity.html' %}
 
 # The Temperature in Beehives
 
@@ -40,4 +39,4 @@ The optimal temperature for breeding is between the 30-35 °C
 
 
 
-</p>
+
