@@ -9,6 +9,9 @@ excerpt: "Data Science Life Circle, Data Science, Neural Networks for Good"
 mathjax: "true"
 ---
 
+
+
+
 # Introduction
 
 The use of neocorticoids and other pesticides against insects is a growing problem because they are targeting not only the target insects which can act as pests but also useful ones like honey bees. There is a rapid decrease in the number of insects. Also it was shown before that insecticides can reduce the defense strength of the bee hives against the varroa mites (https://www.nature.com/articles/s41598-019-44207-1). Without these insects the agriculture will lose a major contributor to the pollination of plants, which can lead to crop failures and famines.
