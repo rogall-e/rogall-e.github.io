@@ -1,4 +1,5 @@
 ---
+layout: default
 permalink: /capstone-project/
 title: "Papstone Project"
 author_profile: true
