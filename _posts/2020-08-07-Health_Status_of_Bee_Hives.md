@@ -31,7 +31,7 @@ The success of this project will be defined by the accuracy of the detection of 
 
 The optimal Humidity for breeding is between the 50% and 60%.
 
-{% include '/images/2020-08-07-Health_Status_of_Bee_Hives/humidity.html' %}
+
 
 # The Temperature in Beehives
 
