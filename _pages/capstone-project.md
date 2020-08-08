@@ -1,5 +1,4 @@
 ---
-layout: posts
 permalink: /capstone-project/
 title: "Papstone Project"
 author_profile: true
