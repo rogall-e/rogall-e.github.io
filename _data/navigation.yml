@@ -2,6 +2,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Capstone Project"
+    url: /capstone-project/
   - title: "Data Science Projects"
     url: /data-science-projects/
   # - title: "About"
