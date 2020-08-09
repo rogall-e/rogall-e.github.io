@@ -30,6 +30,10 @@ The success of this project will be defined by the accuracy of the detection of 
 
 ![Alt Text](/images/2020-08-07-Health_Status_of_Bee_Hives/NN2.png)
 
+![Alt Text](/images/2020-08-07-Health_Status_of_Bee_Hives/Accomplished.png)
+
+![Alt Text](/images/2020-08-07-Health_Status_of_Bee_Hives/FutureWork.png)
+
 
 
 
