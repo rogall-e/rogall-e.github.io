@@ -16,10 +16,9 @@ I want to predict the health status of bee hives based on a [kaggle dataset](htt
 The first steps will be getting an overview about the dataset and how the different annotations of the pictures are distributed, then I want to build a basic classification models using supervised or unsupervised machine learning and then improve the prediction if possible with CNN and improving it. The final goal it will be to use GCP and Google Vision. The major challenges of this data set will be the different sizes and quality of the bee images and the testing of the model on bee hive livestreams.
 The success of this project will be defined by the accuracy of the detection of the health status of bee hives in the real world and the usability for primary stakeholders like beekeepers. 
 
+![Alt Text](/images/2020-08-07-Health_Status_of_Bee_Hives/WhiteSoftGroundbeetle-small.gif)
 
 ![Alt Text](/images/2020-08-07-Health_Status_of_Bee_Hives/Facts.png)
-
-![Alt Text](/images/2020-08-07-Health_Status_of_Bee_Hives/WhiteSoftGroundbeetle-small.gif)
 
 ![Alt Text](/images/2020-08-07-Health_Status_of_Bee_Hives/Importance.png)
 
